@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="icon" href="/img/logo bicicletas vargas 1.png">
+  <link rel="stylesheet" href="Inicio.css">
+  <link rel="stylesheet" href="/nicepage.css" media="screen">
+  <link rel="stylesheet" href="/login.css" media="screen">
+  <script class="u-script" type="text/javascript" src="jquery.js" defer=""></script>
+  <script class="u-script" type="text/javascript" src="nicepage.js" defer=""></script>
+  <meta name="generator" content="Nicepage 4.20.1, nicepage.com">
+  <link id="u-theme-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i|Open+Sans:300,300i,400,400i,500,500i,600,600i,700,700i,800,800i">
+  <link id="u-page-google-font" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i">
+  <title>Bicicletas Vargas Registro</title>
+</head>
+<body>
+ 
+  
+
+
+  <section class="u-align-center u-clearfix u-grey-5 u-section-1" id="carousel_4e70">
+    <div class="u-clearfix u-sheet u-sheet-1">
+      <div class="u-clearfix u-expanded-width u-layout-wrap u-layout-wrap-1">
+        <div class="u-layout">
+          <div class="u-layout-row">
+            <div class="u-align-center u-container-style u-image u-layout-cell u-size-37 u-image-1" data-image-width="1920" data-image-height="1080">
+              <div class="u-container-layout u-container-layout-1">
+                <h3 class="u-custom-font u-font-montserrat u-text u-text-body-alt-color u-text-default u-text-1">Bienvenido de nuevo a<br>Bicicletas Vargas
+                </h3>
+                <p class="u-text u-text-body-alt-color u-text-2">Sample text. Click to select the text box. Click again or double click to start editing the text.</p>
+              </div>
+            </div>
+            <div class="u-align-center u-container-style u-layout-cell u-size-23 u-white u-layout-cell-2">
+              <div class="u-container-layout u-container-layout-2">
+                <div class="u-expanded-width-lg u-expanded-width-md u-expanded-width-sm u-expanded-width-xs u-form u-login-control u-form-1">
+                    <form action="php/login.php" method="POST" class="u-clearfix u-form-custom-backend u-form-spacing-38 u-form-vertical u-inner-form" source="custom" name="form" style="padding: 30px;">
+                        <div class="u-form-group u-form-name">
+                          <label for="username-a30d" class="u-label">Nombre De Usuario *</label>
+                          <input type="text" placeholder="Ingrese Usuario" id="username-a30d" name="user" class="u-grey-5 u-input u-input-rectangle u-input-1" required="">
+                        </div>
+                        
+                        <div class="u-form-group u-form-password">
+                          <label for="password-a30d" class="u-label">Ingresar  Contraseña *</label>
+                          <input type="text" placeholder="Ingrese contraseña" id="password-a30d" name="pass" class="u-grey-5 u-input u-input-rectangle u-input-2" required="">
+                        </div>
+                    
+                        <div class="u-align-left u-form-group u-form-submit">
+                            <a href="#" class="u-black u-border-none u-btn u-btn-submit u-button-style u-btn-1">Iniciar<br>
+                            </a>
+                            <input type="submit" value="submit" class="u-form-control-hidden">
+                        </div>
+                        <input type="hidden" value="Ingresar" name="ingresar">
+                    </form>
+                </div>
+                <a href="registro.php" class="u-border-active-palette-2-base u-border-hover-palette-1-base u-border-none u-btn u-button-style u-login-control u-login-create-account u-none u-text-grey-40 u-text-hover-palette-4-base u-btn-3">A un no tienes cuenta?.</a>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+</body>
+</html>
