@@ -1,0 +1,24 @@
+
+html{
+    scroll-behavior: smooth;
+}
+ @media  screen and (max-width:1980px){
+    .minifond  #contenido{
+        color: #fff;
+        margin-top: -550px ;
+        margin-left: 950px;
+        font-size: 30px;
+    }
+    
+}
+
+
+@media screen and (max-width: 1366px){
+    .minifond  #contenido{
+        color: #fff;
+        margin-top:450px ;
+        margin-left: 690px;
+        font-size: 30px;
+    }
+
+}
